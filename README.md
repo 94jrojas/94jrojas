@@ -9,6 +9,8 @@ Soy desarrollador Full-Stack con experiencia en el desarrollo de aplicaciones we
 - api-games: API REST para el manejo de datos de juegos y usuarios (firebase, mongoDB, express, nodeJS, typescript, redis, docker, kubernetes, api-keys, authentication),
 - app-games: Aplicación web para el manejo de datos de juegos y usuarios (API, redis, react, redux, javascript, css, html, api-keys, authentication, axios, router),
 - app-support: Aplicación web para el manejo de tickets de soporte (php, MySQL).
+- reporte-incendios: Aplicación web para el manejo de reportes de incendios (ASP.NET, OracleDB, Crystal Reports).
+- app-iot: Aplicación web para el manejo de datos de sensores de un invernadero automatizado (Arduino, MySQL).
 
 ## Aplicaciones de escritorio 🖥️
 <p align="left">
@@ -56,6 +58,10 @@ Soy desarrollador Full-Stack con experiencia en el desarrollo de aplicaciones we
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
       height="40" />
+  </a>  
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+      alt="dotnet" width="40" height="40" />
   </a>
 </p>
 
