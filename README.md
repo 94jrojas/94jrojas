@@ -1,5 +1,5 @@
-<h1>Jonathan Rojas 🤖 
-</h1>
+<h1>Jonathan Rojas 🤖</h1>
+
 ## Ingeniero en Ciencias y Sistemas, Guatemala
 
 Soy desarrollador Full-Stack con experiencia en el desarrollo de aplicaciones web, con conocimientos en el desarrollo de aplicaciones back-end y Front-end, desarrollo de videojuegos y desarrollo de aplicaciones de Internet de las cosas (IoT). Me gusta aprender nuevas tecnologías y aplicarlas en proyectos personales y profesionales. Me gusta trabajar en equipo. Me gusta el código limpio, utilizo buenas prácticas de programación, la refactorización, patrones de diseño y los principios SOLID.
