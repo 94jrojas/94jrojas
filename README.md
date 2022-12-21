@@ -10,7 +10,7 @@ Soy desarrollador Full-Stack con experiencia en el desarrollo de aplicaciones we
 - app-games: Aplicación web para el manejo de datos de juegos y usuarios (API, redis, react, redux, javascript, css, html, api-keys, authentication, axios, router),
 - app-support: Aplicación web para el manejo de tickets de soporte (php, MySQL).
 - reporte-incendios: Aplicación web para el manejo de reportes de incendios (ASP.NET, OracleDB, Crystal Reports).
-- app-iot: Aplicación web para el manejo de datos de sensores de un invernadero automatizado (Arduino, MySQL).
+- app-iot: Aplicación web para el manejo de datos de sensores de un invernadero automatizado (PHP, MySQL, Arduino).
 
 ## Aplicaciones de escritorio 🖥️
 <p align="left">
