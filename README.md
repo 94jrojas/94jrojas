@@ -6,6 +6,7 @@ Soy desarrollador Full-Stack con experiencia en el desarrollo de aplicaciones we
 
 ## Portafolio 📚
 
+- [Curriculum](https://portafolio-web-navy.vercel.app/resume/CV-Jonathan-Rojas-Espanol.pdf)
 - [Portafolio](https://portafolio-web-navy.vercel.app/)
 - [Radioactive Games](https://radioactivegames.net/)
 
