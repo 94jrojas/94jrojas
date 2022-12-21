@@ -4,6 +4,11 @@
 
 Soy desarrollador Full-Stack con experiencia en el desarrollo de aplicaciones web, con conocimientos en el desarrollo de aplicaciones back-end y Front-end, desarrollo de videojuegos y desarrollo de aplicaciones de Internet de las cosas (IoT). Me gusta aprender nuevas tecnologías y aplicarlas en proyectos personales y profesionales. Me gusta trabajar en equipo. Me gusta el código limpio, utilizo buenas prácticas de programación, refactorización, patrones de diseño y los principios SOLID.
 
+## Portafolio 📚
+
+- [Portafolio](https://portafolio-web-navy.vercel.app/)
+- [Radioactive Games](https://radioactivegames.net/)
+
 ## Principales proyectos en los que he trabajado 📚
 
 - api-games: API REST para el manejo de datos de juegos y usuarios (firebase, mongoDB, express, nodeJS, typescript, redis, docker, kubernetes, api-keys, authentication),
